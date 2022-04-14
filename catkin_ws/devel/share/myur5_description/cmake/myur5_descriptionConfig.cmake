@@ -1,0 +1,1 @@
+/home/fri/Asha_Mia/catkin_ws/devel/.private/myur5_description/share/myur5_description/cmake/myur5_descriptionConfig.cmake

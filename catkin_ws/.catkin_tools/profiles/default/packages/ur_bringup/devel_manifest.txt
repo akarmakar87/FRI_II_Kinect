@@ -1,5 +1,5 @@
 universal_robot/ur_bringup
-/home/fri/Asha_Mia/FRI_Final_Project/catkin_ws/devel/.private/ur_bringup/cmake.lock /home/fri/Asha_Mia/FRI_Final_Project/catkin_ws/devel/./cmake.lock
-/home/fri/Asha_Mia/FRI_Final_Project/catkin_ws/devel/.private/ur_bringup/lib/pkgconfig/ur_bringup.pc /home/fri/Asha_Mia/FRI_Final_Project/catkin_ws/devel/lib/pkgconfig/ur_bringup.pc
-/home/fri/Asha_Mia/FRI_Final_Project/catkin_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake /home/fri/Asha_Mia/FRI_Final_Project/catkin_ws/devel/share/ur_bringup/cmake/ur_bringupConfig.cmake
-/home/fri/Asha_Mia/FRI_Final_Project/catkin_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake /home/fri/Asha_Mia/FRI_Final_Project/catkin_ws/devel/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
+/home/ashak/FRI_Final_Project/catkin_ws/devel/.private/ur_bringup/cmake.lock /home/ashak/FRI_Final_Project/catkin_ws/devel/./cmake.lock
+/home/ashak/FRI_Final_Project/catkin_ws/devel/.private/ur_bringup/lib/pkgconfig/ur_bringup.pc /home/ashak/FRI_Final_Project/catkin_ws/devel/lib/pkgconfig/ur_bringup.pc
+/home/ashak/FRI_Final_Project/catkin_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake /home/ashak/FRI_Final_Project/catkin_ws/devel/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
+/home/ashak/FRI_Final_Project/catkin_ws/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake /home/ashak/FRI_Final_Project/catkin_ws/devel/share/ur_bringup/cmake/ur_bringupConfig.cmake

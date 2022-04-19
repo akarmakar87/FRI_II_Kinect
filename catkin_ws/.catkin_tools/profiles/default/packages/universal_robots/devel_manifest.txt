@@ -1,0 +1,2 @@
+universal_robot/universal_robots
+/home/ashak/FRI_Final_Project/catkin_ws/devel/.private/universal_robots/cmake.lock /home/ashak/FRI_Final_Project/catkin_ws/devel/./cmake.lock
